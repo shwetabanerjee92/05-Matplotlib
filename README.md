@@ -20,7 +20,7 @@ In addition, we will be expected to produce the following three pie charts:
 * % of Total Rides by City Type
 * % of Total Drivers by City Type
 
-## Pyber Analysis
+## Data Analysis:
 
 1. On the bases on the Bubble plot, we can understand that the "Urban" cities have the maximum no of driver count per city with low fares followed by "Suburban" and then "Rural
 2. Although in "Rural" areas, there is less number of drivers their average fare per ride is much more than the "Suburban" and "Urban" areas.
